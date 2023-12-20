@@ -1,0 +1,16 @@
+---
+title: Modesty Mesh
+description: Customizable mesh inserts to hide your messy electronics compartment.
+mod_version: 1
+discord_username: mapleleafmakers
+cad:
+- CAD/V0_Modesty_Mesh.step
+images:
+- images/render.png
+- images/parts.png
+- images/sliced.png
+printer_compatibility:
+- V0
+- V0.1
+- V0.2
+- V0.2r1
